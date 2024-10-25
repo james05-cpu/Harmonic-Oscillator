@@ -1,4 +1,4 @@
-# under damped harmonic-oscillator-pinn
+# under damped harmonic-oscillator
 
 
-<img src="figures/step 2.gif" width="850">
+<img src="/step 2.gif" width="850">
